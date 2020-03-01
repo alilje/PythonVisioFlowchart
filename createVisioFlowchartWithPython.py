@@ -2,7 +2,7 @@ import sys, win32com.client
 import copy
 import re
 import os
-
+#####################################################
 # Visio constants
 visCharacterColor  = 1
 visCharacterFont = 0
